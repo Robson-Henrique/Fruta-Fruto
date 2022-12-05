@@ -1,2 +1,3 @@
 # arquitetura-css
-curso de arquitetura da Alura. 
+Estudo de css
+. 
